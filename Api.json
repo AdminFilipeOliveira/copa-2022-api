@@ -3,7 +3,7 @@
       "name": "QUARTOS FINAIS",
       "stadium": {
         "name": "Ahmad Bin Ali Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/ahmad-bin-ali-stadium.jpeg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/ahmad-bin-ali-stadium.jpeg"
       },
       "team1": "NL",
       "team2": "AR",
@@ -13,7 +13,7 @@
       "name": "QUARTOS FINAIS",
       "stadium": {
         "name": "Al Bayt Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/al-bayt-stadium.jpg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/al-bayt-stadium.jpg"
       },
       "team1": "GB",
       "team2": "FR",
@@ -23,7 +23,7 @@
       "name": "QUARTOS FINAIS",
       "stadium": {
         "name": "Al Janoub Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/al-janoub-stadium.jpg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/al-janoub-stadium.jpg"
       },
       "team1": "CA",
       "team2": "BR",
@@ -33,7 +33,7 @@
       "name": "GQUARTOS FINAIS",
       "stadium": {
         "name": "Al Thumama Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/al-thumama-stadium.jpg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/al-thumama-stadium.jpg"
       },
       "team1": "MA",
       "team2": "PT",
@@ -43,7 +43,7 @@
       "name": "MEIAS FINAIS",
       "stadium": {
         "name": "Cotener Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/contener-stadium.png"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/contener-stadium.png"
       },
       "team1": "AR",
       "team2": "BR",
@@ -53,7 +53,7 @@
       "name": "MEIAS FINAIS",
       "stadium": {
         "name": "Education City Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/education-city-stadium.jpg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/education-city-stadium.jpg"
       },
       "team1": "PT",
       "team2": "FR",
@@ -63,7 +63,7 @@
       "name": "3 e 4 LUGAR",
       "stadium": {
         "name": "Khalifa Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/khalifa_stadium.jpg"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/khalifa_stadium.jpg"
       },
       "team1": "FR",
       "team2": "AR",
@@ -73,7 +73,7 @@
       "name": "FINAL",
       "stadium": {
         "name": "Lusail Stadium",
-        "image": "https://adminfilipeoliveira.github.io/copa-2023-api/stadiums/lusali-stadium.png"
+        "image": "https://adminfilipeoliveira.github.io/copa-2022-api/stadiums/lusali-stadium.png"
       },
       "team1": "PT",
       "team2": "BR",
